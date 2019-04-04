@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on March 6, 2019. This README was created April 3, 2019.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python code to import US bike share data and compute some descriptive statistics.
 
 ### Files used
-Include the files used
+bikeshare.py
+.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity
+Return the largest n elements: https://stackoverflow.com/questions/35364601/group-by-and-find-top-n-value-counts-pandas
