@@ -6,6 +6,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+
 The statistics computed include:
 * Popular times of travel
 * Popular stations and trip
