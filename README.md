@@ -1,8 +1,7 @@
 ### Date created
 This project was created on March 6, 2019. This README was created April 3, 2019.
 
-### Project Title
-Explore US Bikeshare Data
+### Explore US Bikeshare Data
 
 ### Description
 This project uses Python code to import US bike share data and compute some descriptive statistics.
