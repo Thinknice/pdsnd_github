@@ -10,7 +10,8 @@ Describe what your project is about and what it does
 The statistics computed include:
 * Popular times of travel
 * Popular stations and trip
-* Trip duration *User info
+* Trip duration 
+* User info
 
 ### Files used
 Include the files used
