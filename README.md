@@ -6,6 +6,12 @@ This project was created on March 6, 2019. This README was created April 3, 2019
 ### Description
 This project uses Python code to import US bike share data and compute some descriptive statistics.
 
+The statistics computed include:
+ *Popular times of travel
+ *Popular stations and trip
+ *Trip duration
+ *User info
+
 ### Files used
 bikeshare.py
 .gitignore
