@@ -25,9 +25,9 @@ def get_filters():
         if not city:
             print("Sorry, that didn't work. Please try again by typing Chicago, New York City, or Washington: ")
     # get user input for month (all, january, february, ... , june)
-    months_allowed = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
+    months = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
     month = input('Give the month (January through June or type all): ').lower()
-    while month not in months_allowed:
+    while month not in months:
         month = input('Give the month of January, February, March, April, May, June, or all: ')
         if not month:
             print("Sorry, that didn't work. Please try a month January, February, March, April, May, June, or all.")
