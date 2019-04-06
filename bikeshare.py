@@ -1,7 +1,8 @@
-import time
-import pandas as pd
-import numpy as np
 import json
+import time
+
+import numpy as np
+import pandas as pd
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
